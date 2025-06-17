@@ -1,0 +1,410 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Kareem_Wassem/VERIFICATION/Assignments/A6
+T_opt
+!s110 1750202449
+VOe;`Hmnd^A11;`iAhSz;31
+04 7 4 work MIPS_TB fast 0
+=1-b81ea4814c0d-6851f850-309-452c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU
+Z2 !s110 1750202442
+!i10b 1
+!s100 Q:XNOkmlR22h0oNFF0WJl1
+IB<DB1MQIhWQ4YOkhGVzSi3
+Z3 dD:/Digital Design/MIPS Project/Verification
+w1750190899
+8ALU.v
+FALU.v
+!i122 109
+L0 1 26
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1750202442.000000
+Z7 !s107 REG_FILE.v|PC.v|PC_Mux.v|PC_ADDER.v|MIPS_TB.sv|MIPS_Proccesor.v|JumpBlock.v|ImedExt.v|I_MEM.v|D_MEM.v|CTRL_UNIT.v|BranchBlock.v|ALUCtrl.v|ALU.v|
+Z8 !s90 -reportprogress|300|-f|src_files.list|+define+SIM|+cover=bces|-covercells|
+!i113 0
+Z9 !s102 +cover=bces -covercells
+Z10 o+cover=bces -covercells -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 +define+SIM +cover=bces -covercells -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vALUCtrl
+R2
+!i10b 1
+!s100 cnoRbdKP_CFD1n<HehI6<1
+I[DUYCcCgeUWVioLoZlM@X1
+R3
+w1750041984
+8ALUCtrl.v
+FALUCtrl.v
+!i122 109
+L0 1 30
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@a@l@u@ctrl
+vBranchBlock
+R2
+!i10b 1
+!s100 DbQG5WH:=a0Oo=LQ`Ao9o2
+IO@Z<G^;oJQ9lOGQNdlElN1
+R3
+w1750043126
+8BranchBlock.v
+FBranchBlock.v
+!i122 109
+L0 1 15
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@branch@block
+vCTRL_UNIT
+R2
+!i10b 1
+!s100 H8[8zdF6S]agQ@EEldiRK2
+I7alP4M`UV_Y:oV7b<^aEH0
+R3
+w1750183967
+8CTRL_UNIT.v
+FCTRL_UNIT.v
+!i122 109
+L0 1 144
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@c@t@r@l_@u@n@i@t
+vD_MEM
+R2
+!i10b 1
+!s100 dD]Vc>A0_fP9WB?MaA3BH3
+I]DAKId@dhL`LHDN@:e7^I2
+R3
+w1750107330
+8D_MEM.v
+FD_MEM.v
+!i122 109
+L0 1 54
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@d_@m@e@m
+vI_mem
+R2
+!i10b 1
+!s100 kn1am6:^nk6N6QdzT6WR`3
+I7SK01idM6?z4C[U6SW3E80
+R3
+w1750185869
+8I_MEM.v
+FI_MEM.v
+!i122 109
+L0 1 16
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@i_mem
+vImedExt
+R2
+!i10b 1
+!s100 =An88Ek9:eBQ6RV55JSTa3
+IFl^Y`0IP]ie<ajim0fUB13
+R3
+w1750115976
+8ImedExt.v
+FImedExt.v
+!i122 109
+Z12 L0 1 5
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@imed@ext
+vJumpBlock
+R2
+!i10b 1
+!s100 7;jBh4QB^oCScRjnLk`3g3
+Il8WMm4XDbR>^dYk3USTo62
+R3
+w1750038844
+8JumpBlock.v
+FJumpBlock.v
+!i122 109
+L0 1 6
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@jump@block
+vMIPS_Proccesor
+R2
+!i10b 1
+!s100 c:6=JS;T8zITSD6?n2kbF2
+I@PX17L:aklSDBEjB^YY`C0
+R3
+w1750044569
+8MIPS_Proccesor.v
+FMIPS_Proccesor.v
+!i122 109
+L0 1 65
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@m@i@p@s_@proccesor
+vMIPS_TB
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 V1TBUz@Q<=dIOLH]E1j:=0
+I_fmk4`@d9lO179Jhh;>i40
+S1
+R3
+w1750202440
+8MIPS_TB.sv
+FMIPS_TB.sv
+!i122 109
+L0 1 713
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@m@i@p@s_@t@b
+vPC
+R2
+!i10b 1
+!s100 _5o0b@aan]A;V7lM_J3SQ1
+I<>SIDSBkKlEINH46GQQ2N2
+R3
+w1750042124
+8PC.v
+FPC.v
+!i122 109
+L0 1 8
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@p@c
+vPC_ADDER
+R2
+!i10b 1
+!s100 4:l[;I=Kj7<k_YZj3_SFI1
+IzzU<7h>OTG<Pdbzm4>mC_1
+R3
+w1750023572
+8PC_ADDER.v
+FPC_ADDER.v
+!i122 109
+R12
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@p@c_@a@d@d@e@r
+vPC_Mux
+R2
+!i10b 1
+!s100 obeF5:]FNgMf@HaF<aI=k3
+IW4]lH;E:;H]6<hC]BZoIR0
+R3
+w1750038955
+8PC_Mux.v
+FPC_Mux.v
+!i122 109
+L0 1 12
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@p@c_@mux
+vRegFile
+R2
+!i10b 1
+!s100 CPzQQRzR=]NTi=nGXb?Wj1
+ICY6EXDC<DWd<^GM>lO`cN1
+R3
+w1750118293
+8REG_FILE.v
+FREG_FILE.v
+!i122 109
+L0 1 22
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+n@reg@file

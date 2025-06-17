@@ -1,0 +1,14 @@
+ALU.v
+ALUCtrl.v
+BranchBlock.v
+CTRL_UNIT.v
+D_MEM.v
+I_MEM.v
+ImedExt.v
+JumpBlock.v
+MIPS_Proccesor.v
+MIPS_TB.sv
+PC_ADDER.v
+PC_Mux.v
+PC.v
+REG_FILE.v
