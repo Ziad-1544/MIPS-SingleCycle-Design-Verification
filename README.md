@@ -1,5 +1,4 @@
 # MIPS-SingleCycle-Design-Verification
-# 🧠 MIPS Single-Cycle Design and Verification (97 Instructions Tested)
 
 ![MIPS Architecture](https://i.sstatic.net/5d5XB.png)
 > Based on *Computer Organization and Design*, 5th Edition – Patterson & Hennessy - But this pic does not support all insturctions of MIPS....Will add Custom Made one that support all soon ISA.
